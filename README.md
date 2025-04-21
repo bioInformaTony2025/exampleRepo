@@ -2,4 +2,3 @@
 
 This repo is to demonstrated how to create one in GitHub.
 
-This text was written when working on the local computer.
